@@ -1,57 +1,17 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36" version="28.2.1">
   <diagram name="第 1 页" id="yt8Y5QMrP4TiE7Jwmf0B">
-    <mxGraphModel dx="1426" dy="743" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
+    <mxGraphModel dx="1314" dy="670" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="light-dark(#FFFFFF,#FFFFFF)" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="mOdyscqYkriH_ISJvnXi-1" value="" style="shape=link;html=1;rounded=0;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" edge="1">
-          <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="400" y="80" as="sourcePoint" />
-            <mxPoint x="400" y="720" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-2" target="mOdyscqYkriH_ISJvnXi-22" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-2" target="mOdyscqYkriH_ISJvnXi-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-2" value="BANK银行信息表" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="120" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-3" target="mOdyscqYkriH_ISJvnXi-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="220" />
-              <mxPoint x="320" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-3" value="&lt;div style=&quot;text-align: start;&quot;&gt;Claim理赔表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="56" y="200" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-5" target="mOdyscqYkriH_ISJvnXi-3" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-5" target="mOdyscqYkriH_ISJvnXi-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="320" y="290" />
-              <mxPoint x="320" y="260" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-5" value="&lt;div style=&quot;text-align: start;&quot;&gt;ClaimBill理赔单记录表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="46" y="270" width="120" height="40" as="geometry" />
-        </mxCell>
         <mxCell id="mOdyscqYkriH_ISJvnXi-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-7" target="mOdyscqYkriH_ISJvnXi-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-7" target="edZRX0RR0QIgBY5kFmzA-21">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="607" y="240" />
-              <mxPoint x="607" y="195" />
+              <mxPoint x="510" y="238" />
+              <mxPoint x="510" y="193" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -59,180 +19,151 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mOdyscqYkriH_ISJvnXi-7" value="PSN_REIM_DCLA_MGT_C&lt;div&gt;理赔管理事件表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="461" y="240" width="160" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-13" target="mOdyscqYkriH_ISJvnXi-5" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-13" value="&lt;div style=&quot;text-align: start;&quot;&gt;ClaimBillitem理赔单记录表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="31" y="345" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-16" target="mOdyscqYkriH_ISJvnXi-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-16" target="mOdyscqYkriH_ISJvnXi-5">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-16" value="ClaimBillNo&lt;div&gt;理赔单地区信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="345" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-19" value="老系统表逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="170" y="60" width="80" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-20" value="新系统表逻辑" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
-          <mxGeometry x="596" y="60" width="80" height="30" as="geometry" />
+          <mxGeometry x="364" y="238" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="mOdyscqYkriH_ISJvnXi-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-22" target="mOdyscqYkriH_ISJvnXi-7" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mOdyscqYkriH_ISJvnXi-22" value="bank_bas_info_b&lt;div&gt;银行基本信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="486" y="125" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-27" target="mOdyscqYkriH_ISJvnXi-28" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-27" value="ClaimBillType&lt;div&gt;理赔类型表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="260" y="405" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-28" value="ClaimItem&lt;div&gt;理赔项目表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="96" y="405" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="mOdyscqYkriH_ISJvnXi-31" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="106" y="200" as="targetPoint" />
-            <mxPoint x="181" y="177.5" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-31" value="ClaimType&lt;div&gt;报案类型&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="200" y="160" width="100" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-34" value="DangerousIndustry&lt;div&gt;高危职业记录表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="96" y="450" width="120" height="30" as="geometry" />
+          <mxGeometry x="389" y="123" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-37" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-37" target="edZRX0RR0QIgBY5kFmzA-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-37" target="edZRX0RR0QIgBY5kFmzA-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="mOdyscqYkriH_ISJvnXi-37" value="psn_reim_doc_d&lt;div&gt;个人理赔单信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="471" y="340" width="140" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="mOdyscqYkriH_ISJvnXi-38" value="" style="endArrow=none;html=1;rounded=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;endFill=0;startArrow=classic;startFill=1;" parent="1" source="mOdyscqYkriH_ISJvnXi-37" edge="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="431" y="380" as="sourcePoint" />
-            <mxPoint x="431" y="260" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="431" y="360" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-6" value="DiseaseType&lt;div&gt;疾病类型表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="96" y="498" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.3;entryY=1.033;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-34" target="mOdyscqYkriH_ISJvnXi-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.3;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="edZRX0RR0QIgBY5kFmzA-6" target="mOdyscqYkriH_ISJvnXi-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-9" value="Accident&lt;br&gt;&lt;div&gt;事故目录表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="96" y="549" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-13" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="edZRX0RR0QIgBY5kFmzA-9">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="76" y="504" as="sourcePoint" />
-            <mxPoint x="91" y="564" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="76" y="564" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="edZRX0RR0QIgBY5kFmzA-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.836;entryY=1.061;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="mOdyscqYkriH_ISJvnXi-28" target="mOdyscqYkriH_ISJvnXi-13">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry x="374" y="338" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="edZRX0RR0QIgBY5kFmzA-19" target="mOdyscqYkriH_ISJvnXi-7">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="671" y="170" />
-              <mxPoint x="581" y="170" />
+              <mxPoint x="574" y="168" />
+              <mxPoint x="484" y="168" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-19" value="accid_leve_info_b&lt;div&gt;意外伤残等级信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="120" width="139" height="30" as="geometry" />
+          <mxGeometry x="574" y="118" width="139" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-21" value="biz_log_c&lt;div&gt;业务日志表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="180" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="178" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-23" value="&lt;div&gt;biz_mgt_evt_c&lt;/div&gt;&lt;div&gt;综合事件管理表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="245" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="243" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="edZRX0RR0QIgBY5kFmzA-27" target="mOdyscqYkriH_ISJvnXi-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-27" value="&lt;div&gt;dcla_matl_c&lt;/div&gt;&lt;div&gt;理赔申报材料信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="310" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="308" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-28" value="&lt;div&gt;dcla_mdtrt_info_c&lt;/div&gt;&lt;div&gt;理赔申报医疗事件信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="360" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="358" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-29" value="&lt;div&gt;dise_info_c&lt;/div&gt;&lt;div&gt;疾病信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="410" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="408" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-30" value="&lt;div&gt;hif_certf_c&lt;/div&gt;&lt;div&gt;理赔意外伤害记录表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="460" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="458" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-32" value="&lt;div&gt;hi_setl_d&lt;/div&gt;&lt;div&gt;医保结算信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="510" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="508" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-34" value="&lt;div&gt;medins_info_b&lt;/div&gt;&lt;div&gt;医疗机构信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="671" y="560" width="140" height="30" as="geometry" />
+          <mxGeometry x="574" y="558" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-36" value="reim_detl_d&lt;div&gt;理赔单信息明细表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="471" y="470" width="140" height="40" as="geometry" />
+          <mxGeometry x="374" y="468" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-39" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="376" as="sourcePoint" />
-            <mxPoint x="637" y="326" as="targetPoint" />
+            <mxPoint x="570" y="374" as="sourcePoint" />
+            <mxPoint x="540" y="324" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="647" y="376" />
-              <mxPoint x="637" y="376" />
+              <mxPoint x="550" y="374" />
+              <mxPoint x="540" y="374" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-40" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="426" as="sourcePoint" />
-            <mxPoint x="637" y="371" as="targetPoint" />
+            <mxPoint x="570" y="424" as="sourcePoint" />
+            <mxPoint x="540" y="369" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="637" y="426" />
+              <mxPoint x="540" y="424" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-41" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="476" as="sourcePoint" />
-            <mxPoint x="637" y="421" as="targetPoint" />
+            <mxPoint x="570" y="474" as="sourcePoint" />
+            <mxPoint x="540" y="419" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="637" y="476" />
+              <mxPoint x="540" y="474" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-42" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="526" as="sourcePoint" />
-            <mxPoint x="637" y="471" as="targetPoint" />
+            <mxPoint x="570" y="524" as="sourcePoint" />
+            <mxPoint x="540" y="469" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="637" y="526" />
+              <mxPoint x="540" y="524" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="edZRX0RR0QIgBY5kFmzA-43" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="667" y="575" as="sourcePoint" />
-            <mxPoint x="637" y="520" as="targetPoint" />
+            <mxPoint x="570" y="573" as="sourcePoint" />
+            <mxPoint x="540" y="518" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="637" y="575" />
+              <mxPoint x="540" y="573" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="edZRX0RR0QIgBY5kFmzA-44" target="mOdyscqYkriH_ISJvnXi-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="184" />
+              <mxPoint x="269" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-44" value="&lt;div&gt;matl_b&lt;/div&gt;&lt;div&gt;理赔材料信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="51" y="169" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-45" value="&lt;div&gt;icd_10_c&lt;/div&gt;&lt;div&gt;病理ICD10信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="222" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-46" value="&lt;div&gt;guar_leve_trea_d&lt;/div&gt;&lt;div&gt;伤残赔付信息表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="275" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="edZRX0RR0QIgBY5kFmzA-47" target="mOdyscqYkriH_ISJvnXi-7">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="269" y="343" />
+              <mxPoint x="269" y="258" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-47" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;emp_bkls_d&lt;/span&gt;&lt;/div&gt;&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;单位黑名单记录表&lt;/span&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="49" y="328" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-48" value="&lt;div&gt;&lt;span style=&quot;background-color: transparent;&quot;&gt;dfr_sum_d&lt;/span&gt;&lt;/div&gt;&lt;div&gt;拨付汇总表&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="214" y="468" width="140" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-51" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="edZRX0RR0QIgBY5kFmzA-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="187.99999999999994" y="290" as="sourcePoint" />
+            <mxPoint x="269" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="edZRX0RR0QIgBY5kFmzA-52" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="189" y="236.86" as="sourcePoint" />
+            <mxPoint x="269" y="237" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
